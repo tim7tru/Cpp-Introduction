@@ -1,0 +1,3 @@
+/Users/timmytruong/Desktop/lab01b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/timmytruong/Desktop/lab01b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/timmytruong/Desktop/lab01b/cmake-build-debug/CMakeFiles/lab01b.dir
