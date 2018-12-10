@@ -1,0 +1,5 @@
+Adam, 20
+Becky, 40
+Timmy, 60
+John, 120
+Tim, 50
