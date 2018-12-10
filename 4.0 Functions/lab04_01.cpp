@@ -1,5 +1,4 @@
 // Name:        Timmy Truong
-// ID:          ID#20772704
 // Date:        October 12, 2018
 // Course:      SYDE 121
 // Lab room:    WEEF Lab - E2 1792
