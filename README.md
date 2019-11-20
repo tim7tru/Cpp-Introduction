@@ -1,3 +1,3 @@
-# SYDE121
+# An Introductory Course in C++
 
-These are all the lab assignments I had completed for the SYDE 121 course.
+From variables up to classes. Does not include pointers.
